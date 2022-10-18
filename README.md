@@ -9,4 +9,4 @@ My idea for my visual argument is to bring awareness to the normalization of bin
 I have the basic ideas down for my preview, but gimp is super confusing to me, so I'll be working on the design and layout of it a lot more before my final draft.
 
 ### Full Draft
-I have kept the same text and basic idea, and expanded upon the design elements, utilizing rhythm and GIMP tools liked paints, drop shadow, lasso tool, resizing, blending, etc. Old images were discarded, new images added.
+I have kept the same text and basic ideas, but expanded upon the design elements, utilizing rhythm and GIMP tools liked paint, drop shadow, lasso tool, resizing, blending, etc. Old images were discarded, new images added.
