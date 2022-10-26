@@ -29,4 +29,4 @@ I played around with adding more background images or effects, but I found that 
 ![glasspouring](https://user-images.githubusercontent.com/71287088/198108165-fda55215-cdc5-4fef-b843-de84a377f398.png)
 
 
-Finally, the number to call was not something I included in my original design, and realized I was severely lacking to actually give the reader a resource to start with, so it was my final inclusion, and I’m proud of the way it ties together the message and visuals. 
+Finally, the number to call was not something I included in my original design, and realized I was severely lacking a resource to start with, so it was my final inclusion, and I’m proud of the way it ties together the message and visuals. 
